@@ -9,18 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
     "@expo-google-fonts/fredoka": "^0.2.3",
     "@expo/metro-runtime": "~3.2.1",
-    "@expo/vector-icons": "^14.0.0",
-    "@mui/material": "^5.15.19",
-    "@react-navigation/bottom-tabs": "^6.5.20",
     "expo": "~51.0.10",
     "expo-app-loading": "^2.1.1",
     "expo-font": "~12.0.7",
     "expo-status-bar": "~1.12.1",
-    "ollama": "^0.5.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.1",

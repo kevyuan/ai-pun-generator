@@ -9,23 +9,23 @@ AI Pun Generator is an application developed using React Native and Ollama. It s
 
 To use the application, follow these steps:
 
-1. Install ![Ollama](https://github.com/ollama/ollama) and run Llama3
+1. Install [Ollama](https://github.com/ollama/ollama) and run Llama3
 
 
 2. Clone the repository:
-
 ```Terminal
 npx expo start
 ```
 
 3. Install dependencies:
 ```Terminal
+cd ai-pun-generator
 npm install
 ```
 
 4. Start the development server
 ```Terminal
-npx expo start
+npm start
 ```
 
 5. Adjust `Database.js` to match your Llama3 server IP address and port number.  
