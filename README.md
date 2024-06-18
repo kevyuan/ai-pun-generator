@@ -14,7 +14,7 @@ To use the application, follow these steps:
 
 2. Clone the repository:
 ```Terminal
-npx expo start
+git clone https://github.com/kevyuan/ai-pun-generator.git
 ```
 
 3. Install dependencies:
