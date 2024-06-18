@@ -37,7 +37,7 @@ const response = await fetch('<YOUR_IP_ADDRESS_AND_PORT_HERE>/api/generate' ...
 # Screenshots
 
 ![Screenshot](./assets/images/screenshot.png)
-![Animated screenshot](./assets/images/ai-pun-generator.gif)
+<img src="https://github.com/kevyuan/ai-pun-generator/blob/main/assets/images/ai-pun-generator.gif" width="229" height="485">
 
 # Personal Notes
 
